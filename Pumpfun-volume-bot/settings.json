@@ -1,0 +1,14 @@
+{
+  "walletNum": 2,
+  "solAmount": 0.1,
+  "slippage": 5,
+  "mint": "KnQCxHxvrM8NJY16f1kPPiAt7iuxPepiozuLTJeBEbY",
+  "buyMax": 50,
+  "buyMin": 30,
+  "distIntervalMax": 50,
+  "distIntervalMin": 30,
+  "buyIntervalMax": 10,
+  "buyIntervalMin": 0,
+  "sellIntervalMax": 10,
+  "sellIntervalMin": 0
+}

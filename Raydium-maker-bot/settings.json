@@ -1,0 +1,8 @@
+{
+  "mint": "7TAt5QXyv9ZRxreWq9feLQw2utRF2FmGv9yFkw49QhGQ",
+  "poolId": "E1nihzGoLUv8RzbxpXN8NvFMXY59b17KtY9GuW3hDn7i",
+  "buyMax": 0.001,
+  "buyMin": 0.0005,
+  "walletNum": 20,
+  "timeInterval": 2000
+}
