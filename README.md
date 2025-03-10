@@ -17,13 +17,10 @@ This bot is designed to boost the ranking of your token in Raydium and pumpfun d
 The bot uses the following environment variables, which should be defined in a `.env` file:
 
 ```env
-CLUSTER=devnet
-MAINNET_RPC_URL=https://mainnet.helius-rpc.com/?api-key=
-MAINNET_WEBSOCKET_URL=wss://mainnet.helius-rpc.com/?api-key=
-
-DEVNET_RPC_URL=https://devnet.helius-rpc.com/?api-key=
-PINATA_API_KEY=
-PINATA_SECRET_API_KEY=
+MAIN_KP=
+RPC_URL=https://mainnet.helius-rpc.com/?api-key=
+SLIPPAGE=5
+COMPUTE_UNIT_PRICE=744452
 
 # jito
 BLOCKENGINE_URL=tokyo.mainnet.block-engine.jito.wtf
